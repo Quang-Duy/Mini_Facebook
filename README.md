@@ -16,7 +16,7 @@ The code here is to stimulate Facebook using hash table and hashing functions
 Here is the list of 50 accounts initialized in the hash table:
 
 Rank | Male_name | Female_name
-
+---  | ---       | ---
 1  |  Liam      |  Emma
 
 2  |  Noah      |  Olivia
