@@ -15,54 +15,54 @@ The code here is to stimulate Facebook using hash table and hashing functions
 ### Note
 Here is the list of 50 accounts initialized in the hash table:
 
-Rank Male_name Female_name
+Rank | Male_name | Female_name
 
-1    Liam      Emma
+1  |  Liam      |  Emma
 
-2    Noah      Olivia
+2  |  Noah      |  Olivia
 
-3    William   Ava
+3  |  William   |  Ava
 
-4    James     Isabella
+4  |  James     |  Isabella
 
-5    Logan     Sophia
+5  |  Logan     |  Sophia
 
-6    Benjamin  Mia
+6  |  Benjamin  |  Mia
 
-7    Mason     Charlotte
+7  |  Mason     |  Charlotte
 
-8    Elijah    Amelia
+8  |  Elijah    |  Amelia
 
-9    Oliver    Evelyn
+9  |  Oliver    |  Evelyn
 
-10   Jacob     Abigail
+10 |  Jacob     |  Abigail
 
-11   Lucas     Harper
+11 |  Lucas     |  Harper
 
-12   Michael   Emily
+12 |  Michael   |  Emily
+ 
+13 |  Alexander |  Elizabeth
 
-13   Alexander Elizabeth
+14 |  Ethan     |  Avery
 
-14   Ethan     Avery
+15 |  Daniel    |  Sofia
 
-15   Daniel    Sofia
+16 |  Matthew   |  Ella
 
-16   Matthew   Ella
+17 |  Aiden     |  Madison
 
-17   Aiden     Madison
+18 |  Henry     |  Scarlett
 
-18   Henry     Scarlett
+19 |  Joseph    |  Victoria
 
-19   Joseph    Victoria
+20 |  Jackson   |  Aria
 
-20   Jackson   Aria
+21 |  Samuel    |  Grace
 
-21   Samuel    Grace
+22 |  Sebastian |  Chloe
 
-22   Sebastian Chloe
+23 |  David     |  Camila
 
-23   David     Camila
+24 |  Carter    |  Penelope
 
-24   Carter    Penelope
-
-25   Wyatt     Riley
+25 |  Wyatt     |  Riley
